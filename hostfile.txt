@@ -1,1 +1,2 @@
-mpirun -np 4 --hostfile hostfile.txt ./mpi_hello
+192.168.1.10 slots=2
+192.168.1.11 slots=2
